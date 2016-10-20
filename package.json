@@ -1,0 +1,29 @@
+{
+  "name": "awesome-static-comments",
+  "version": "1.0.0",
+  "description": "Commenting system for Jekyll based on serverless architecture.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zburgermeiszter/awesome-static-comments.git"
+  },
+  "keywords": [
+    "jekyll",
+    "aws",
+    "lambda",
+    "static",
+    "comment"
+  ],
+  "author": "Zoltan Burgermeiszter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zburgermeiszter/awesome-static-comments/issues"
+  },
+  "homepage": "https://github.com/zburgermeiszter/awesome-static-comments#readme",
+  "dependencies": {
+    "github": "^5.2.2"
+  }
+}
