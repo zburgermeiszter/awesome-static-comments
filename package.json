@@ -24,6 +24,9 @@
   },
   "homepage": "https://github.com/zburgermeiszter/awesome-static-comments#readme",
   "dependencies": {
-    "github": "^5.2.2"
+    "github": "^5.2.2",
+    "js-yaml": "^3.6.1",
+    "moment": "^2.15.1",
+    "node-uuid": "^1.4.7"
   }
 }

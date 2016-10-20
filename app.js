@@ -1,5 +1,6 @@
 'use strict';
 
+var moment = require('moment');
 var ASC = require('./lib/awesome-static-comments.js');
 const config = require('./config.js');
 
@@ -33,6 +34,8 @@ module.exports.handler = handler;
 handler({
     type: 'comment',
     data: {
-        text: 'Hello World'
+      user: 'John Smith',
+      date: +moment(),
+      text: 'Hello World'
     }
 });
