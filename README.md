@@ -6,10 +6,10 @@
 Commenting system for Jekyll based on serverless architecture.
 
 # How
-Serverless (AWS lambda)
-Reply-to (nested comments) support
-Moderation support
-Encrypted data support
-OAuth support
-ReCaptcha support
-Email notification support
+- Serverless (AWS lambda)
+- Reply-to (nested comments) support
+- Moderation support
+- Encrypted data support
+- OAuth support
+- ReCaptcha support
+- Email notification support
